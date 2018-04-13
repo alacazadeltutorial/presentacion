@@ -17,8 +17,9 @@ public class Presentacion {
     public static void main(String[] args) {
         System.out.println("Preséntate, indicando o teu nome completo. Se hai mais nomes, colócao na seguinte liña");
         System.out.println("Alonso Beltrán Grande");
-	System.out.println("Lorena Pereira Senín");
-        
+	      System.out.println("Irene Rey Rodriguez");
+        System.out.println("Lorena Pereira Senín");
+    
     }
     
 }
